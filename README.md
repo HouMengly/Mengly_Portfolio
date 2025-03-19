@@ -1,16 +1,18 @@
 # portfolio
+Portfolio mobile build with flutter which has some featers such as:
+* Home_Page
+* Menu_Drawer
+* Hire Me which link to facebook
+* Download CV
 
-A new Flutter project.
+## Home_Page
+![image](https://github.com/user-attachments/assets/99491321-11fe-489d-bd3d-5e89b911ea9f)
 
-## Getting Started
+## Menu_Drawer
+![image](https://github.com/user-attachments/assets/d5b2c380-b1b9-4882-8271-41d7d80439a5)
 
-This project is a starting point for a Flutter application.
+## Hire Me which link to facebook
+![image](https://github.com/user-attachments/assets/acbc80d0-c854-489d-96d7-0a515bc08848)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download CV
+![image](https://github.com/user-attachments/assets/78ebefe9-a6c3-452a-9479-0a9b8678f0cd)
