@@ -1,5 +1,5 @@
 # portfolio
-Portfolio mobile build with flutter which has some featers such as:
+Portfolio mobile build with flutter which has some features such as:
 * Home_Page
 * Menu_Drawer
 * Hire Me which link to facebook
